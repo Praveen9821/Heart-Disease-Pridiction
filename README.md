@@ -70,25 +70,25 @@ After evaluation, **Random Forest** was selected as the final model.
 ## 📌 Example Prediction Output
 
 ### High Risk Example
-Age: 60
-Gender: Male
-Chest Pain Type: 3
-Blood Pressure: 160
-Cholesterol: 280
+- Age: 60
+- Gender: Male
+- Chest Pain Type: 3
+- Blood Pressure: 160
+- Cholesterol: 280
 
-Probability of Heart Disease: 82.45%
-Prediction: Heart Disease Present
+- Probability of Heart Disease: 82.45%
+- Prediction: Heart Disease Present
 
 
 ### Low Risk Example
-Age: 30
-Gender: Female
-Chest Pain Type: 0
-Blood Pressure: 110
-Cholesterol: 150
+- Age: 30
+- Gender: Female
+- Chest Pain Type: 0
+- Blood Pressure: 110
+- Cholesterol: 150
 
-Probability of Heart Disease: 10.00%
-Prediction: No Heart Disease
+- Probability of Heart Disease: 10.00%
+- Prediction: No Heart Disease
 
 ---
 
