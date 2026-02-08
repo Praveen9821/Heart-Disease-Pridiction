@@ -8,7 +8,9 @@ The objective is to build a simplified, practical, and deployable cardiovascular
 ---
 
 ## 🌐 Live Demo
-👉 (Add your Streamlit live link here after deployment)
+Try the heart disease prediction app here:
+
+👉 https://heart-disease-pridiction-vz9f459ezqxbzccxg9xybs.streamlit.app/
 
 ---
 
